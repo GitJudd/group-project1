@@ -1,0 +1,5 @@
+We are going to analyze the data sets to determine: 
+1. Average median salary by degree
+2. Starting salary by college
+3. Starting salary versus mid-career salary
+4. Spread of the different salary points by degree
