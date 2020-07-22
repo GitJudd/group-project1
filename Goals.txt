@@ -1,5 +1,5 @@
 We are going to analyze the data sets to determine: 
-1. Average median salary by degree
-2. Starting salary by college
-3. Starting salary versus mid-career salary
-4. Spread of the different salary points by degree
+1. Does where you go to school impact your starting salary?
+2. Does the region your school is in really matter? 
+3. Although your starting salary may be low, your mid-career salary will increase
+4. Most degrees have increasing salaries over the majority of their career paths
